@@ -5,3 +5,7 @@ Created for NLP CS 6301.M02
 [Overview to NLP PDF link](https://github.com/jacobvillegas/NLP_Portfolio/raw/e8e8c411a0dde7aa6af9c66121bd179009c4f81f/OverviewofNLP.pdf)
 
 ## General NLTK
+
+## Sentiment Analysis
+
+## Bots & Scrapers
