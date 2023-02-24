@@ -1,0 +1,1 @@
+"WordNet is a corpus created at Princeton University used in Natural Language Processing.Wordnet provides a functionality in which is a part thesaurus, dictionary that finds synonyms nouns and their hierarchy. Provided with Morphy function, WordNet can find the base meaning of words and  has aid in the finding the lemma of words."
