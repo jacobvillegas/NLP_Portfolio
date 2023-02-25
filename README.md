@@ -12,4 +12,4 @@ Created for NLP CS 6301.M02
 
 ## Bots & Scrapers
 
-![](https://github.com/jacobvillegas/NLP_Portfolio/tree/main/WebCrawler)
+![Webcrawler](https://github.com/jacobvillegas/NLP_Portfolio/tree/main/WebCrawler)
