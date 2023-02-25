@@ -11,6 +11,7 @@ Created for NLP CS 6301.M02
 ![N-grams](https://github.com/jacobvillegas/NLP_Portfolio/tree/main/N-Grams)
 
 ## Sentiment Analysis
+![WordNet](https://github.com/jacobvillegas/NLP_Portfolio/tree/main/WordNet)
 
 ## Bots & Scrapers
 
