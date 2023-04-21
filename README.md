@@ -4,11 +4,13 @@ Created for NLP CS 6301.M02
 #
 [Overview to NLP PDF link](https://github.com/jacobvillegas/NLP_Portfolio/raw/e8e8c411a0dde7aa6af9c66121bd179009c4f81f/OverviewofNLP.pdf)
 
-## General NLTK
-# NLP has many tools, that include spaCY, openNLP, and NLTK. These API provide the necessary functionsto process text (tokinization, lementization). Here is a small game that utilize NLTK API:
+# General NLTK
+### NLP has many tools, that include spaCY, openNLP, and NLTK. These API provide the necessary functions
+### to process text (tokinization, lementization). Here is a small game that utilize NLTK API.
 ![NLTK-Hangman](https://github.com/jacobvillegas/NLP_Portfolio/tree/main/NLTK-tokenization)
 
-## N-Grams
+# N-Grams
+###  To build our language model, one of the fundamental pieces are n-grams, which is a continguous sequence of words or tokens for a given sample of text or speach. Here is a small example in building an n-gram (uni, bi-grams) dictionary and using this to classify text to sample in three different languages.
 ![N-grams](https://github.com/jacobvillegas/NLP_Portfolio/tree/main/N-Grams)
 
 ## Sentiment Analysis
