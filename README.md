@@ -5,8 +5,7 @@ Created for NLP CS 6301.M02
 [Overview to NLP PDF link](https://github.com/jacobvillegas/NLP_Portfolio/raw/e8e8c411a0dde7aa6af9c66121bd179009c4f81f/OverviewofNLP.pdf)
 
 ## General NLTK
-# NLP has many tools, that include spaCY, openNLP, and NLTK. These API provide the necessary functions
-# to process text (tokinization, lementization). Here is a small game that utilize NLTK API.
+# NLP has many tools, that include spaCY, openNLP, and NLTK. These API provide the necessary functionsto process text (tokinization, lementization). Here is a small game that utilize NLTK API:
 ![NLTK-Hangman](https://github.com/jacobvillegas/NLP_Portfolio/tree/main/NLTK-tokenization)
 
 ## N-Grams
